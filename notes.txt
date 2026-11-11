@@ -1,2 +1,2 @@
-Learning Git and GitLab for DevOps
+Learning Git, GitLab and Cloud for DevOps
 Git is important for DevOps
