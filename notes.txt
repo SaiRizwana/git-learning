@@ -1,1 +1,2 @@
 Learning Git for DevOps
+Git is important for DevOps
