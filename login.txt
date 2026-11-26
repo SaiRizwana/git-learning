@@ -1,1 +1,1 @@
-Login using password
+Login using otp
